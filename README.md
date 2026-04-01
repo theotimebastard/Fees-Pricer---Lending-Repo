@@ -23,7 +23,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Opens at `http://localhost:8501`.
+Opens at `https://fees-pricer---lending-repo-xfsylb9b3tsvfp5ncwjhz8.streamlit.app/`.
 
 
 ## What the app shows
