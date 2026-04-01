@@ -89,7 +89,7 @@ This logic is kept completely separate from the lending borrow fee logic.
 
 - This is an indicative prototype, not a production pricer.
 - The scoring weights and fee bands are illustrative, not market-calibrated.
-- In a real desk context, lending data (utilisation, inventory, specials) comes from dedicated sources such as DataLend, EquiLend, or Pirum.
+- In a real desk context, lending data (utilisation, inventory, specials) comes from dedicated sources.
 - Repo pricing in production requires real market quotes, precise collateral inputs, and funding curves.
 - Yahoo Finance is used only for generic price, volume, and volatility proxies. It is not a source for lending or repo data.
 - Day count convention: Act/360.
